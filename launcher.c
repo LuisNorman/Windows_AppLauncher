@@ -2,6 +2,7 @@
 	Course: CS 30200
   	Name: Luis Norman
   	Assignment: 2
+	Details: Application laucher that gives you the option to choose between apps
  */
 
 #include <windows.h>
